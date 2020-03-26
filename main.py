@@ -6,7 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 
 
-url = "https://www.youtube.com/watch?v=_PUYkX5P4F8"
+url = "https://www.youtube.com/watch?v=on5E-FfLRGs"
 
 driver: WebDriver = webdriver.Chrome("chromedriver.exe")
 
